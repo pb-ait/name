@@ -55,7 +55,9 @@ Instead of typing my name, start typing surname :smile:
 Disgraph - two letters that together represent one sound.
 
 Example:
+
 in German: 'ch' in "Ich" 
+
 in Polish: 'rz' in "Przemysław"
 
 In Przemysław, the Polish rz is pronounced like the “s” in “measure”.
