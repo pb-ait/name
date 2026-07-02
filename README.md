@@ -51,6 +51,19 @@ https://github.com/pb-ait/name/assets/123641480/1a12d615-7d28-49b4-9dd0-5f8bcc2b
 
 Instead of typing my name, start typing surname :smile:
 
+#### 5. Random 'z' 
+Disgraph - two letters that together represent one sound.
+
+Example:
+in German: 'ch' in "Ich" 
+in Polish: 'rz' in "Przemysław"
+
+In Przemysław, the Polish rz is pronounced like the “s” in “measure”.
+
+#### 6. 'ł' - 'l' with the hyphen 
+Polish ł is usually pronounced like the English “w” sound.
+So it sounds like the 'w' in: weekend.
+
 ----------
 Congratulations, you have reached the end :sunglasses: :smile:
 </details>
